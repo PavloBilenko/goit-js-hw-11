@@ -17,3 +17,4 @@ export const fetchPhotos = searchedValue => {
     return response.json();
   });
 };
+// one
